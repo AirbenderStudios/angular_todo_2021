@@ -2,6 +2,8 @@ To launch:
 
 npm install
 
-live-server mockdb.json
+verify json-server is installed.
+
+json-server mockdb.json to run mock db
 
 ng serve
